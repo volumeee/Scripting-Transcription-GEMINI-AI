@@ -50,8 +50,8 @@ To get started with this project, follow these steps:
    ```
 
 ### Acknowledgements
-- Chakra UI - For the UI components.
-- Google Generative AI - For AI scripting and transcription capabilities.
-
+- [Chakra UI](https://chakra-ui.com) - For the UI components.
+- [Google Generative AI](https://cloud.google.com/generative-ai) - For AI scripting and transcription capabilities.
+- [Dunia Coding Academy](https://duniacoding.com) - For the workshop that is carried out.
 
 **Feel free to modify this template according to your project's specific details and requirements.**
